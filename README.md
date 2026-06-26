@@ -1,4 +1,4 @@
-# # 🏧 Easy-Bank ATM & Banking System
+# #  Easy-Bank ATM & Banking System
 
 ##  Project Overview
 
