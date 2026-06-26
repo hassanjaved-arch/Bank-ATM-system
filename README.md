@@ -38,10 +38,10 @@ Easy-Bank ATM is a Python-based Banking Management System developed using **Obje
 
 ---
 ## How to Run
--Install Python.
--Download the project.
--Open it in VS Code.
--Run app.py.
+- Install Python.
+- Download the project.
+- Open it in VS Code.
+- Run app.py.
 
 ---
 
