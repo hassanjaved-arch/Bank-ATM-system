@@ -2,10 +2,6 @@
 
 ##  Project Overview
 
-# 🏧 Easy-Bank ATM & Banking System
-
-## 📌 Project Overview
-
 Easy-Bank ATM is a Python-based Banking Management System developed using **Object-Oriented Programming (OOP)** concepts.
 
 ---
